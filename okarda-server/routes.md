@@ -1,0 +1,13 @@
+/ 
+/health 
+/login
+/register
+/login-bikemen
+/register-bikemen
+/bikemen
+/logout
+/create-order
+/cancel-order
+/view-order
+/complaints
+/new-complaints
