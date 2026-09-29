@@ -18,3 +18,6 @@ const authMiddleware = (req, res, next) => {
     return res.status(403).json({ message: "Invalid or Expired Token" });
   }
 };
+
+
+export default authMiddleware
